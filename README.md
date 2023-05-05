@@ -1,0 +1,1 @@
+# Servo-Actuated-3-DOF-Mini-Stewart-Platform
