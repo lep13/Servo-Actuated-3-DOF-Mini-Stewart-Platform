@@ -19,7 +19,7 @@ The Stewart platform, also known as a hexapod, is a parallel manipulator that ha
 The motivation behind this project stems from the need for a cost-effective and easily implemented mini-Stewart platform that can be used in a variety of applications. By leveraging advancements in microcontroller technology and affordable servo motors, this project aims to create a compact and efficient system suitable for a wide range of industries and applications.
 
  ![image](https://user-images.githubusercontent.com/126688687/236431722-1d8ad565-b088-4e56-bb82-d59d95866ca5.png)
-*Fig1.2 CAD of the Stewart Platform*
+ *Fig1.2 CAD of the Stewart Platform*
 
 
 ### 1.3 Literature Review
@@ -41,9 +41,8 @@ The remainder of the report is organized as follows: Chapter 2 presents the meth
 
 This chapter outlines the methodology adopted for the development of the mini-Stewart platform project. It begins with a literature survey of existing technologies, approaches, and applications related to parallel manipulators and Stewart platforms. Then, the proposed solution is discussed, detailing the design and implementation process, including circuit diagrams and design calculations. Finally, a summary of the chapter is provided.
 
-###    2.1.1 Literature Survey
-
-    A comprehensive literature survey was conducted to study existing Stewart platform designs, control methods, and applications. This survey included references from journals, conference proceedings, and other academic sources, providing insights into the challenges and opportunities associated with miniaturizing the platform and implementing cost-effective control strategies using Arduino-based microcontrollers. The literature survey helped identify best practices, potential pitfalls, and innovative solutions that informed the design and implementation decisions throughout the project.
+####    2.1.1 Literature Survey
+       A comprehensive literature survey was conducted to study existing Stewart platform designs, control methods, and applications. This survey included references from journals, conference proceedings, and other academic sources, providing insights into the challenges and opportunities associated with miniaturizing the platform and implementing cost-effective control strategies using Arduino-based microcontrollers. The literature survey helped identify best practices, potential pitfalls, and innovative solutions that informed the design and implementation decisions throughout the project.
 
 ### 2.2 Proposed Solution
 
@@ -64,20 +63,16 @@ The design process began with the selection and sizing of components, such as th
 
 The implementation of the mini-Stewart platform involved constructing the platform using off-the-shelf components and programming the Arduino MKRZero microcontroller to manage the platform's movements and respond to input from the push buttons. The control algorithm was developed to provide precise and accurate control of the servo motors, enabling the platform to move in response to user input.
 
-###    2.2.1 Circuit Model
+####    2.2.1 Circuit Model
  ![image](https://user-images.githubusercontent.com/126688687/236432032-93d85847-1d78-4a32-a1b9-fc72227158df.png)
-                                                             *Fig2.2.5 Circuit model*
+                         *Fig2.2.5 Circuit model*
 
 
-
-###    2.2.1 Testing and Validation
-
-    To validate the proposed solution, the mini-Stewart platform was tested to ensure that it operated as intended and met the project objectives. Testing focused on the platform's movement, accuracy, and response to user input. The results of these tests were analysed to evaluate the platform's performance and identify any potential improvements or future work. 
+####    2.2.2 Testing and Validation
+    A comprehensive literature survey was conducted to study existing Stewart platform designs, control methods, and applications. This survey included references from journals, conference proceedings, and other academic sources, providing insights into the challenges and opportunities associated with miniaturizing the platform and implementing cost-effective control strategies using Arduino-based microcontrollers. The literature survey helped identify best practices, potential pitfalls, and innovative solutions that informed the design and implementation decisions throughout the project.
 
 ![image](https://user-images.githubusercontent.com/126688687/236432122-393e08eb-6b2c-44b9-a58f-72d2f6ed14c9.png) 
 *Fig2.2.6 Hardware model*
-
-
 
 
 ### 2.3 Summary
