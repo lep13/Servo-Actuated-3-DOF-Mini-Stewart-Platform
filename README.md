@@ -75,10 +75,8 @@ The implementation of the mini-Stewart platform involved constructing the platfo
 A comprehensive literature survey was conducted to study existing Stewart platform designs, control methods, and applications. This survey included references from journals, conference proceedings, and other academic sources, providing insights into the challenges and opportunities associated with miniaturizing the platform and implementing cost-effective control strategies using Arduino-based microcontrollers. The literature survey helped identify best practices, potential pitfalls, and innovative solutions that informed the design and implementation decisions throughout the project.    
 
 ![image](https://user-images.githubusercontent.com/126688687/236432122-393e08eb-6b2c-44b9-a58f-72d2f6ed14c9.png) 
+
 *Fig2.2.6 Hardware model*
-
-
-https://github.com/lep13/Servo-Actuated-3-DOF-Mini-Stewart-Platform/assets/126688687/db035de5-ec51-46a9-9d41-a128c1afa0f0
 
 
 
