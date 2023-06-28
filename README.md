@@ -78,6 +78,10 @@ A comprehensive literature survey was conducted to study existing Stewart platfo
 *Fig2.2.6 Hardware model*
 
 
+https://github.com/lep13/Servo-Actuated-3-DOF-Mini-Stewart-Platform/assets/126688687/db035de5-ec51-46a9-9d41-a128c1afa0f0
+
+
+
 ### 2.3 Summary
 This chapter presented the methodology followed for the development of the mini-Stewart platform project. It began with a literature survey of existing technologies and approaches related to parallel manipulators and Stewart platforms, followed by the proposed solution, which detailed the design and implementation process, including circuit diagrams and design calculations. The mini-Stewart platform was then tested and validated to ensure it met the project objectives. The next chapter will discuss the results obtained from the testing and validation process, along with an analysis of the platform's performance. 
 
